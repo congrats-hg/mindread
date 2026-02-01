@@ -1,0 +1,6 @@
+# Hierarchical BERT-based DST Model Configuration
+
+model_type: "hierarchical"
+model_name: "bert-base-uncased"
+dropout: 0.1
+num_context_layers: 2
