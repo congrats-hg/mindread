@@ -1,0 +1,6 @@
+# RoBERTa-based DST Model Configuration
+
+model_type: "bert"
+model_name: "roberta-base"
+dropout: 0.1
+freeze_encoder_layers: 0

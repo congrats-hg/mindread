@@ -1,0 +1,9 @@
+# DSTC2 Dataset Configuration
+
+dataset: "dstc2"
+max_length: 512
+max_context_turns: 5
+
+# Data loading
+num_workers: 4
+pin_memory: true
